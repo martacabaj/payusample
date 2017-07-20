@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+
+  <!-- Replace placeholder with either local, production -->
+  <string name="payu_environment">local</string>
+  <!-- Supported values are: auto, polish, english -->
+  <string name="payu_language">polish</string>
+  <!--Comment that section when using local PayU configuration-->
+  <!--<string name="payu_token_service_class_full_qualified_name">zbiletem.zbiletem.service.payment.MerchantTokenProviderService</string>-->
+
+</resources>
